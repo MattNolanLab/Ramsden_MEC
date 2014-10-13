@@ -1,0 +1,1 @@
+The Figure in 10B is from http://www.robots.ox.ac.uk/~vgg/share/practical-image-classification.htm
