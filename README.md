@@ -4,6 +4,8 @@ Accompanies the paper entitled "Laminar and Dorsoventral Molecular Organization 
 
 Helen L. Ramsden, Gülşen Sürmeli, Steven G. McDonagh and Matthew F. Nolan
 
+All images used were acquired from the Allen Brain Atlas: http://mouse.brain-map.org/
+
 ## Notes
 
 The Ipython notebook and accompanying files contain the workflow for registering images using the ABA. You can view this notebook here: http://nbviewer.ipython.org/github/MattNolanLab/Ramsden_MEC/blob/master/ABA%20Registration%20Pipeline.ipynb
