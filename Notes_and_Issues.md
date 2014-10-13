@@ -14,4 +14,3 @@
 - PIL
 - Pandas
 - Scipy
-- PIL
