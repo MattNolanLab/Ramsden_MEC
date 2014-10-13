@@ -6,7 +6,7 @@ Helen L. Ramsden, Gülşen Sürmeli, Steven G. McDonagh and Matthew F. Nolan
 
 ## Notes
 
-The Ipython notebook and accompanying files contain the workflow for registering images using the ABA. 
+The Ipython notebook and accompanying files contain the workflow for registering images using the ABA. You can view this notebook here: http://nbviewer.ipython.org/github/MattNolanLab/Ramsden_MEC/blob/master/ABA%20Registration%20Pipeline.ipynb
 
 Each code block in the notebook should be able to be run independently in a particular session, though of course some depend on others having been run at some point in the past (such as image download).
 
